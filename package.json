@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp-javascript-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AhmedElywa/freecodecamp-javascript-projects.git",
+  "author": "Ahmed Elewa",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "tsdx watch",
+    "build": "tsdx build",
+    "test": "tsdx test",
+    "lint": "tsdx lint",
+    "prepare": "tsdx build"
+  },
+  "dependencies": {
+    "tsdx": "^0.14.1"
+  }
+}
