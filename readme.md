@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures Projects
 
-(projects link)[https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects]
+[projects link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
 # test
 
